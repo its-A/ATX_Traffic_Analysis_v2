@@ -16,7 +16,7 @@ An end-to-end data analytics and machine learning pipeline analyzing over 310,00
    * Conducted **ANOVA testing** to prove incident volumes differ significantly by hour of the day.
    * Conducted **Chi-Square testing** to confirm incident type proportions changed significantly YoY.
 3. **Geospatial Analysis:** Applied **K-Means Clustering** to segment Austin into localized high-risk traffic zones to optimize theoretical dispatch routing.
-4. **Predictive Modeling:** Trained a **Logistic Regression** classifier (with Train/Test splits and StandardScaler) to predict incident urgency (ROC-AUC: *[Insert your score here]*).
+4. **Predictive Modeling:** Trained a **Logistic Regression** classifier (with Train/Test splits and StandardScaler) to predict incident urgency.
 
 ## 🚀 How to Run
 1. Clone the repository.
