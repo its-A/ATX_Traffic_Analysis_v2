@@ -1,0 +1,10 @@
+# Python Virtual Environment
+.venv/
+__pycache__/
+
+# Mac OS files
+.DS_Store
+
+# DO NOT PUSH LARGE DATA FILES
+data/raw/
+data/processed/
